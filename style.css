@@ -1,0 +1,12 @@
+body {background-color:purple;}
+
+header {margin:auto; font-size:20pt; color:white; text-align:center;}
+
+section {background-color:rgb(226, 196, 215);margin: auto; 
+         width:430px;padding: 10px;
+        box-sizing:border-box;border-radius: 5px; box-shadow: 10px 10px 5px black;
+    }
+
+#res {background-color:white;border: 5px solid black;width:400px; height:30px;}
+
+.botao {cursor:pointer;}
